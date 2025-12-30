@@ -1,0 +1,4 @@
+node_modules
+*.db3
+.env
+.DS_Store
